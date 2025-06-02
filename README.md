@@ -1,4 +1,3 @@
-按个人需求修改，移动文件时不重命名
 
 ## 许可
 
@@ -11,8 +10,3 @@
 - 用户在使用本软件时，请遵守当地法律法规
 
 - 禁止将本软件用于商业用途
-
-
----
-
-![Star History Chart](https://api.star-history.com/svg?repos=Yuukiy/JavSP&type=Date)
